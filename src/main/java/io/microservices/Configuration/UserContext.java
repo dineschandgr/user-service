@@ -1,4 +1,4 @@
-package io.microservices.demo.Configuration;
+package io.microservices.Configuration;
 
 public class UserContext {
 

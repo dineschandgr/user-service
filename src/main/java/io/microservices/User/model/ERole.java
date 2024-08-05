@@ -1,4 +1,4 @@
-package io.microservices.demo.Product.Integration.model;
+package com.SpringBoot.EcommerceSiteProject.User.model;
 
 public enum ERole {
 
