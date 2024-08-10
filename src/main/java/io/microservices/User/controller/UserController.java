@@ -44,8 +44,6 @@ public class UserController {
         return userService.findUserByEmail(email);
     }
 
-
-
     /*
     @PutMapping("/{id}/{role}")
     public ResponseEntity<User> updateRole(@PathVariable int id, @PathVariable String role){
